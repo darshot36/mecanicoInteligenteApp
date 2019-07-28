@@ -1,0 +1,2 @@
+# mecanicoInteligenteApp
+App IONIC
